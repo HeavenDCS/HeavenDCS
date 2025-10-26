@@ -1,49 +1,65 @@
-# 👋 Hey there, I'm **Heaven** 
-
-### 💻 Discord Bot Developer | 🧠 FiveM Developer | ✈️ DCS Server Developer  
-I'm an 18-year-old developer from **Malta** who loves building systems that connect communities — from Discord bots to multiplayer servers.  
-
----
-
-## 🧩 About Me  
-- 🇲🇹 Based in **Malta**  
-- 🖥️ Running on a **Bare Metal Dedicated Server** from **Hetzner**  
-- 💬 Passionate about automation, game server development, and backend performance  
-- 🔥 Currently improving my skills in **JavaScript**, **Lua**, and server optimization  
+<!-- Dynamic Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Hey+there%2C+I'm+%F0%9F%91%8B+[Your+Name];Discord+Bot+Developer;FiveM+Developer;DCS+Server+Developer;From+Malta+🇲🇹" />
+</h1>
 
 ---
 
-## 🧠 Tech Stack  
-| Language / Tool | Area of Expertise |
-|------------------|------------------|
-| 🟨 JavaScript | Discord bots, backend systems |
-| 🔵 HTML | Frontend development, web design |
-| 🎨 CSS | Modern UI styling, animations |
-| 🟣 Lua | FiveM scripting, server logic |
-| ⚙️ MySQL | Database systems for bots and game servers |
-| ☁️ Hetzner | Dedicated server hosting & management |
+### 🧠 About Me  
+🎯 18-year-old full-stack developer from **Malta**  
+🧩 Specialized in **Discord bots**, **FiveM scripting**, and **DCS server management**  
+🖥️ Running on a **Bare Metal Dedicated Server (Hetzner)** for optimal performance  
+💡 Passionate about **automation**, **backend systems**, and **server infrastructure**  
 
 ---
 
-## 🚀 Projects  
-- **Discord Bot Development** – Slash commands, MySQL integration, automation tools  
-- **FiveM Servers** – Custom scripts, economy systems, roleplay frameworks  
-- **DCS Server Setup** – Multiplayer mission hosting and server management  
+### 🧰 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,lua,nodejs,mysql,discord,bash,git,vscode&theme=dark" />
+</p>
 
 ---
 
-## 🧭 Goals  
-- Build scalable systems that bring communities together  
-- Learn advanced backend development (Node.js & APIs)  
-- Grow as a professional game and automation developer  
+### ⚙️ My Expertise  
+
+| Area | Description |
+|------|--------------|
+| 💬 **Discord Bot Development** | Slash commands, embeds, MySQL integration, automation systems |
+| 🚓 **FiveM Development** | Lua scripting, economy systems, RP frameworks |
+| ✈️ **DCS Server Management** | Dedicated mission hosting, multiplayer setup |
+| 🖥️ **Server Hosting** | Full control with bare-metal Hetzner environment |
 
 ---
 
-## 📫 Connect With Me  
-- 💬 **Discord:** [YourUsername#0000]  
-- 🌐 **Website / Portfolio:** [yourwebsite.com] *(if you have one)*  
-- 🧑‍💻 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+### 🧭 Goals  
+- Build scalable community-driven platforms  
+- Expand backend knowledge (Node.js, APIs, Docker)  
+- Collaborate on open-source development projects  
 
 ---
 
-> _“Great things are built by those who love to experiment, fail fast, and learn faster.”_  
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HeavenDCS&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HeavenDCS&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+
+<p align="center">
+  <a href="Coming Soon" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/HeavenDCS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="Coming Soon" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> _“Great things are built by those who experiment, fail fast, and learn faster.”_  
