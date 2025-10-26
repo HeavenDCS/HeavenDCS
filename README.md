@@ -1,6 +1,6 @@
 <!-- Dynamic Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Hey+there%2C+I'm+%F0%9F%91%8B+[Your+Name];Discord+Bot+Developer;FiveM+Developer;DCS+Server+Developer;From+Malta+🇲🇹" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF0000&center=true&vCenter=true&lines=Hey+there%2C+I'm+%F0%9F%91%8B+HeavenDCS;Discord+Bot+Developer;FiveM+Developer;DCS+Server+Developer;From+Malta+🇲🇹" />
 </h1>
 
 ---
